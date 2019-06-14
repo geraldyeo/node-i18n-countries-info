@@ -1,0 +1,1247 @@
+{
+	"AF": {
+		"state": "The Islamic Republic of Afghanistan",
+		"ccTld": ".af",
+		"nationality": "Afghans"
+	},
+	"AX": {
+		"state": "Åland",
+		"ccTld": ".ax",
+		"nationality": ""
+	},
+	"AL": {
+		"state": "The Republic of Albania",
+		"ccTld": ".al",
+		"nationality": "Albanians"
+	},
+	"DZ": {
+		"state": "The People's Democratic Republic of Algeria",
+		"ccTld": ".dz",
+		"nationality": "Algerians"
+	},
+	"AS": {
+		"state": "The Territory of American Samoa",
+		"ccTld": ".as",
+		"nationality": ""
+	},
+	"AD": {
+		"state": "The Principality of Andorra",
+		"ccTld": ".ad",
+		"nationality": "Andorrans"
+	},
+	"AO": {
+		"state": "The Republic of Angola",
+		"ccTld": ".ao",
+		"nationality": "Angolans"
+	},
+	"AI": {
+		"state": "Anguilla",
+		"ccTld": ".ai",
+		"nationality": ""
+	},
+	"AQ": {
+		"state": "All land and ice shelves south of the 60th parallel south",
+		"ccTld": ".aq",
+		"nationality": ""
+	},
+	"AG": {
+		"state": "Antigua and Barbuda",
+		"ccTld": ".ag",
+		"nationality": "Antiguans and Barbudans"
+	},
+	"AR": {
+		"state": "The Argentine Republic",
+		"ccTld": ".ar",
+		"nationality": "Argentines"
+	},
+	"AM": {
+		"state": "The Republic of Armenia",
+		"ccTld": ".am",
+		"nationality": "Armenians"
+	},
+	"AW": {
+		"state": "Aruba",
+		"ccTld": ".aw",
+		"nationality": "Arubans"
+	},
+	"AU": {
+		"state": "The Commonwealth of Australia",
+		"ccTld": ".au",
+		"nationality": "Australians"
+	},
+	"AT": {
+		"state": "The Republic of Austria",
+		"ccTld": ".at",
+		"nationality": "Austrians"
+	},
+	"AZ": {
+		"state": "The Republic of Azerbaijan",
+		"ccTld": ".az",
+		"nationality": "Azerbaijanis"
+	},
+	"BS": {
+		"state": "The Commonwealth of The Bahamas",
+		"ccTld": ".bs",
+		"nationality": "Bahamians"
+	},
+	"BH": {
+		"state": "The Kingdom of Bahrain",
+		"ccTld": ".bh",
+		"nationality": "Bahrainis"
+	},
+	"BD": {
+		"state": "The People's Republic of Bangladesh",
+		"ccTld": ".bd",
+		"nationality": "Bangladeshis"
+	},
+	"BB": {
+		"state": "Barbados",
+		"ccTld": ".bb",
+		"nationality": "Barbadians"
+	},
+	"BY": {
+		"state": "The Republic of Belarus",
+		"ccTld": ".by",
+		"nationality": "Belarusians"
+	},
+	"BE": {
+		"state": "The Kingdom of Belgium",
+		"ccTld": ".be",
+		"nationality": "Belgians"
+	},
+	"BZ": {
+		"state": "Belize",
+		"ccTld": ".bz",
+		"nationality": "Belizeans"
+	},
+	"BJ": {
+		"state": "The Republic of Benin",
+		"ccTld": ".bj",
+		"nationality": "Beninese"
+	},
+	"BM": {
+		"state": "Bermuda",
+		"ccTld": ".bm",
+		"nationality": "Bermudians"
+	},
+	"BT": {
+		"state": "The Kingdom of Bhutan",
+		"ccTld": ".bt",
+		"nationality": "Bhutanese"
+	},
+	"BO": {
+		"state": "The Plurinational State of Bolivia",
+		"ccTld": ".bo",
+		"nationality": "Bolivians"
+	},
+	"BQ": {
+		"state": "Bonaire, Sint Eustatius and Saba",
+		"ccTld": ".bq .nl",
+		"nationality": ""
+	},
+	"BA": {
+		"state": "Bosnia and Herzegovina",
+		"ccTld": ".ba",
+		"nationality": "Bosnians and Herzegovinians"
+	},
+	"BW": {
+		"state": "The Republic of Botswana",
+		"ccTld": ".bw",
+		"nationality": "Botswana"
+	},
+	"BV": {
+		"state": "Bouvet Island",
+		"ccTld": "",
+		"nationality": ""
+	},
+	"BR": {
+		"state": "The Federative Republic of Brazil",
+		"ccTld": ".br",
+		"nationality": "Brazilians"
+	},
+	"IO": {
+		"state": "The British Indian Ocean Territory",
+		"ccTld": ".io",
+		"nationality": ""
+	},
+	"BN": {
+		"state": "The Nation of Brunei, the Abode of Peace",
+		"ccTld": ".bn",
+		"nationality": "Bruneians"
+	},
+	"BG": {
+		"state": "The Republic of Bulgaria",
+		"ccTld": ".bg",
+		"nationality": "Bulgarians"
+	},
+	"BF": {
+		"state": "Burkina Faso",
+		"ccTld": ".bf",
+		"nationality": ""
+	},
+	"BI": {
+		"state": "The Republic of Burundi",
+		"ccTld": ".bi",
+		"nationality": "Burundians"
+	},
+	"CV": {
+		"state": "The Republic of Cabo Verde",
+		"ccTld": ".cv",
+		"nationality": ""
+	},
+	"KH": {
+		"state": "The Kingdom of Cambodia",
+		"ccTld": ".kh",
+		"nationality": "Cambodians"
+	},
+	"CM": {
+		"state": "The Republic of Cameroon",
+		"ccTld": ".cm",
+		"nationality": "Cameroonians"
+	},
+	"CA": {
+		"state": "Canada",
+		"ccTld": ".ca",
+		"nationality": "Canadians"
+	},
+	"KY": {
+		"state": "The Cayman Islands",
+		"ccTld": ".ky",
+		"nationality": ""
+	},
+	"CF": {
+		"state": "The Central African Republic",
+		"ccTld": ".cf",
+		"nationality": ""
+	},
+	"TD": {
+		"state": "The Republic of Chad",
+		"ccTld": ".td",
+		"nationality": "Chadians"
+	},
+	"CL": {
+		"state": "The Republic of Chile",
+		"ccTld": ".cl",
+		"nationality": "Chileans"
+	},
+	"CN": {
+		"state": "The People's Republic of China",
+		"ccTld": ".cn",
+		"nationality": "Chinese"
+	},
+	"CX": {
+		"state": "The Territory of Christmas Island",
+		"ccTld": ".cx",
+		"nationality": ""
+	},
+	"CC": {
+		"state": "The Territory of Cocos (Keeling) Islands",
+		"ccTld": ".cc",
+		"nationality": ""
+	},
+	"CO": {
+		"state": "The Republic of Colombia",
+		"ccTld": ".co",
+		"nationality": "Colombians"
+	},
+	"KM": {
+		"state": "The Union of the Comoros",
+		"ccTld": ".km",
+		"nationality": "Comorians"
+	},
+	"CD": {
+		"state": "The Democratic Republic of the Congo",
+		"ccTld": ".cd",
+		"nationality": "Congolese"
+	},
+	"CG": {
+		"state": "The Republic of the Congo",
+		"ccTld": ".cg",
+		"nationality": "Congolese"
+	},
+	"CK": {
+		"state": "The Cook Islands",
+		"ccTld": ".ck",
+		"nationality": ""
+	},
+	"CR": {
+		"state": "The Republic of Costa Rica",
+		"ccTld": ".cr",
+		"nationality": "Costa Ricans"
+	},
+	"CI": {
+		"state": "The Republic of Côte d'Ivoire",
+		"ccTld": ".ci",
+		"nationality": ""
+	},
+	"HR": {
+		"state": "The Republic of Croatia",
+		"ccTld": ".hr",
+		"nationality": "Croatians"
+	},
+	"CU": {
+		"state": "The Republic of Cuba",
+		"ccTld": ".cu",
+		"nationality": "Cubans"
+	},
+	"CW": {
+		"state": "The Country of Curaçao",
+		"ccTld": ".cw",
+		"nationality": ""
+	},
+	"CY": {
+		"state": "The Republic of Cyprus",
+		"ccTld": ".cy",
+		"nationality": "Cypriots"
+	},
+	"CZ": {
+		"state": "The Czech Republic",
+		"ccTld": ".cz",
+		"nationality": "Czechs"
+	},
+	"DK": {
+		"state": "The Kingdom of Denmark",
+		"ccTld": ".dk",
+		"nationality": "Danes"
+	},
+	"DJ": {
+		"state": "The Republic of Djibouti",
+		"ccTld": ".dj",
+		"nationality": "Djiboutians"
+	},
+	"DM": {
+		"state": "The Commonwealth of Dominica",
+		"ccTld": ".dm",
+		"nationality": "Dominicans"
+	},
+	"DO": {
+		"state": "The Dominican Republic",
+		"ccTld": ".do",
+		"nationality": "Dominicans"
+	},
+	"EC": {
+		"state": "The Republic of Ecuador",
+		"ccTld": ".ec",
+		"nationality": "Ecuadorians"
+	},
+	"EG": {
+		"state": "The Arab Republic of Egypt",
+		"ccTld": ".eg",
+		"nationality": "Egyptians"
+	},
+	"SV": {
+		"state": "The Republic of El Salvador",
+		"ccTld": ".sv",
+		"nationality": ""
+	},
+	"GQ": {
+		"state": "The Republic of Equatorial Guinea",
+		"ccTld": ".gq",
+		"nationality": "Equatoguineans"
+	},
+	"ER": {
+		"state": "The State of Eritrea",
+		"ccTld": ".er",
+		"nationality": "Eritreans"
+	},
+	"EE": {
+		"state": "The Republic of Estonia",
+		"ccTld": ".ee",
+		"nationality": "Estonians"
+	},
+	"SZ": {
+		"state": "The Kingdom of Eswatini",
+		"ccTld": ".sz",
+		"nationality": ""
+	},
+	"ET": {
+		"state": "The Federal Democratic Republic of Ethiopia",
+		"ccTld": ".et",
+		"nationality": "Ethiopians"
+	},
+	"FK": {
+		"state": "The Falkland Islands",
+		"ccTld": ".fk",
+		"nationality": "Falkland Islanders"
+	},
+	"FO": {
+		"state": "The Faroe Islands",
+		"ccTld": ".fo",
+		"nationality": "Faroese"
+	},
+	"FJ": {
+		"state": "The Republic of Fiji",
+		"ccTld": ".fj",
+		"nationality": "Fijians"
+	},
+	"FI": {
+		"state": "The Republic of Finland",
+		"ccTld": ".fi",
+		"nationality": "Finns"
+	},
+	"FR": {
+		"state": "The French Republic",
+		"ccTld": ".fr",
+		"nationality": "French"
+	},
+	"GF": {
+		"state": "Guyane",
+		"ccTld": ".gf",
+		"nationality": ""
+	},
+	"PF": {
+		"state": "French Polynesia",
+		"ccTld": ".pf",
+		"nationality": ""
+	},
+	"TF": {
+		"state": "The French Southern and Antarctic Lands",
+		"ccTld": ".tf",
+		"nationality": ""
+	},
+	"GA": {
+		"state": "The Gabonese Republic",
+		"ccTld": ".ga",
+		"nationality": "Gabonese"
+	},
+	"GM": {
+		"state": "The Republic of The Gambia",
+		"ccTld": ".gm",
+		"nationality": "Gambians"
+	},
+	"GE": {
+		"state": "Georgia",
+		"ccTld": ".ge",
+		"nationality": "Georgians"
+	},
+	"DE": {
+		"state": "The Federal Republic of Germany",
+		"ccTld": ".de",
+		"nationality": "Germans"
+	},
+	"GH": {
+		"state": "The Republic of Ghana",
+		"ccTld": ".gh",
+		"nationality": "Ghanaians"
+	},
+	"GI": {
+		"state": "Gibraltar",
+		"ccTld": ".gi",
+		"nationality": "Gibraltarians"
+	},
+	"GR": {
+		"state": "The Hellenic Republic",
+		"ccTld": ".gr",
+		"nationality": ""
+	},
+	"GL": {
+		"state": "Kalaallit Nunaat",
+		"ccTld": ".gl",
+		"nationality": ""
+	},
+	"GD": {
+		"state": "Grenada",
+		"ccTld": ".gd",
+		"nationality": "Grenadians"
+	},
+	"GP": {
+		"state": "Guadeloupe",
+		"ccTld": ".gp",
+		"nationality": ""
+	},
+	"GU": {
+		"state": "The Territory of Guam",
+		"ccTld": ".gu",
+		"nationality": ""
+	},
+	"GT": {
+		"state": "The Republic of Guatemala",
+		"ccTld": ".gt",
+		"nationality": "Guatemalans"
+	},
+	"GG": {
+		"state": "The Bailiwick of Guernsey",
+		"ccTld": ".gg",
+		"nationality": ""
+	},
+	"GN": {
+		"state": "The Republic of Guinea",
+		"ccTld": ".gn",
+		"nationality": ""
+	},
+	"GW": {
+		"state": "The Republic of Guinea-Bissau",
+		"ccTld": ".gw",
+		"nationality": ""
+	},
+	"GY": {
+		"state": "The Co-operative Republic of Guyana",
+		"ccTld": ".gy",
+		"nationality": "Guyanese"
+	},
+	"HT": {
+		"state": "The Republic of Haiti",
+		"ccTld": ".ht",
+		"nationality": "Haitians"
+	},
+	"HM": {
+		"state": "The Territory of Heard Island and McDonald Islands",
+		"ccTld": ".hm",
+		"nationality": ""
+	},
+	"VA": {
+		"state": "The Holy See",
+		"ccTld": ".va",
+		"nationality": ""
+	},
+	"HN": {
+		"state": "The Republic of Honduras",
+		"ccTld": ".hn",
+		"nationality": "Hondurans"
+	},
+	"HK": {
+		"state": "The Hong Kong Special Administrative Region of China",
+		"ccTld": ".hk",
+		"nationality": "Hong Kongers"
+	},
+	"HU": {
+		"state": "Hungary",
+		"ccTld": ".hu",
+		"nationality": "Hungarians"
+	},
+	"IS": {
+		"state": "Iceland",
+		"ccTld": ".is",
+		"nationality": "Icelanders"
+	},
+	"IN": {
+		"state": "The Republic of India",
+		"ccTld": ".in",
+		"nationality": "Indians"
+	},
+	"ID": {
+		"state": "The Republic of Indonesia",
+		"ccTld": ".id",
+		"nationality": "Indonesians"
+	},
+	"IR": {
+		"state": "The Islamic Republic of Iran",
+		"ccTld": ".ir",
+		"nationality": "Iranians"
+	},
+	"IQ": {
+		"state": "The Republic of Iraq",
+		"ccTld": ".iq",
+		"nationality": "Iraqis"
+	},
+	"IE": {
+		"state": "Ireland",
+		"ccTld": ".ie",
+		"nationality": "Irish"
+	},
+	"IM": {
+		"state": "The Isle of Man",
+		"ccTld": ".im",
+		"nationality": ""
+	},
+	"IL": {
+		"state": "The State of Israel",
+		"ccTld": ".il",
+		"nationality": "Israelis"
+	},
+	"IT": {
+		"state": "The Italian Republic",
+		"ccTld": ".it",
+		"nationality": "Italians"
+	},
+	"JM": {
+		"state": "Jamaica",
+		"ccTld": ".jm",
+		"nationality": "Jamaicans"
+	},
+	"JP": {
+		"state": "Japan",
+		"ccTld": ".jp",
+		"nationality": "Japanese"
+	},
+	"JE": {
+		"state": "The Bailiwick of Jersey",
+		"ccTld": ".je",
+		"nationality": ""
+	},
+	"JO": {
+		"state": "The Hashemite Kingdom of Jordan",
+		"ccTld": ".jo",
+		"nationality": "Jordanians"
+	},
+	"KZ": {
+		"state": "The Republic of Kazakhstan",
+		"ccTld": ".kz",
+		"nationality": "Kazakhs"
+	},
+	"KE": {
+		"state": "The Republic of Kenya",
+		"ccTld": ".ke",
+		"nationality": "Kenyans"
+	},
+	"KI": {
+		"state": "The Republic of Kiribati",
+		"ccTld": ".ki",
+		"nationality": ""
+	},
+	"KP": {
+		"state": "The Democratic People's Republic of Korea",
+		"ccTld": ".kp",
+		"nationality": "North Koreans"
+	},
+	"KR": {
+		"state": "The Republic of Korea",
+		"ccTld": ".kr",
+		"nationality": "South Koreans"
+	},
+	"KW": {
+		"state": "The State of Kuwait",
+		"ccTld": ".kw",
+		"nationality": "Kuwaitis"
+	},
+	"KG": {
+		"state": "The Kyrgyz Republic",
+		"ccTld": ".kg",
+		"nationality": "Kyrgyzs"
+	},
+	"LA": {
+		"state": "The Lao People's Democratic Republic",
+		"ccTld": ".la",
+		"nationality": "Lao"
+	},
+	"LV": {
+		"state": "The Republic of Latvia",
+		"ccTld": ".lv",
+		"nationality": "Latvians"
+	},
+	"LB": {
+		"state": "The Lebanese Republic",
+		"ccTld": ".lb",
+		"nationality": "Lebanese"
+	},
+	"LS": {
+		"state": "The Kingdom of Lesotho",
+		"ccTld": ".ls",
+		"nationality": ""
+	},
+	"LR": {
+		"state": "The Republic of Liberia",
+		"ccTld": ".lr",
+		"nationality": "Liberians"
+	},
+	"LY": {
+		"state": "The State of Libya",
+		"ccTld": ".ly",
+		"nationality": "Libyans"
+	},
+	"LI": {
+		"state": "The Principality of Liechtenstein",
+		"ccTld": ".li",
+		"nationality": "Liechtensteiners"
+	},
+	"LT": {
+		"state": "The Republic of Lithuania",
+		"ccTld": ".lt",
+		"nationality": "Lithuanians"
+	},
+	"LU": {
+		"state": "The Grand Duchy of Luxembourg",
+		"ccTld": ".lu",
+		"nationality": "Luxembourgers"
+	},
+	"MO": {
+		"state": "Macao Special Administrative Region of China",
+		"ccTld": ".mo",
+		"nationality": "Macao"
+	},
+	"MK": {
+		"state": "Republic of North Macedonia",
+		"ccTld": ".mk",
+		"nationality": "Macedonians"
+	},
+	"MG": {
+		"state": "The Republic of Madagascar",
+		"ccTld": ".mg",
+		"nationality": ""
+	},
+	"MW": {
+		"state": "The Republic of Malawi",
+		"ccTld": ".mw",
+		"nationality": "Malawians"
+	},
+	"MY": {
+		"state": "Malaysia",
+		"ccTld": ".my",
+		"nationality": "Malaysians"
+	},
+	"MV": {
+		"state": "The Republic of Maldives",
+		"ccTld": ".mv",
+		"nationality": "Maldivians"
+	},
+	"ML": {
+		"state": "The Republic of Mali",
+		"ccTld": ".ml",
+		"nationality": "Malians"
+	},
+	"MT": {
+		"state": "The Republic of Malta",
+		"ccTld": ".mt",
+		"nationality": "Maltese"
+	},
+	"MH": {
+		"state": "The Republic of the Marshall Islands",
+		"ccTld": ".mh",
+		"nationality": "Marshallese"
+	},
+	"MQ": {
+		"state": "Martinique",
+		"ccTld": ".mq",
+		"nationality": ""
+	},
+	"MR": {
+		"state": "The Islamic Republic of Mauritania",
+		"ccTld": ".mr",
+		"nationality": "Mauritanians"
+	},
+	"MU": {
+		"state": "The Republic of Mauritius",
+		"ccTld": ".mu",
+		"nationality": "Mauritians"
+	},
+	"YT": {
+		"state": "The Department of Mayotte",
+		"ccTld": ".yt",
+		"nationality": ""
+	},
+	"MX": {
+		"state": "The United Mexican States",
+		"ccTld": ".mx",
+		"nationality": "Mexicans"
+	},
+	"FM": {
+		"state": "The Federated States of Micronesia",
+		"ccTld": ".fm",
+		"nationality": "Micronesians"
+	},
+	"MD": {
+		"state": "The Republic of Moldova",
+		"ccTld": ".md",
+		"nationality": "Moldovans"
+	},
+	"MC": {
+		"state": "The Principality of Monaco",
+		"ccTld": ".mc",
+		"nationality": ""
+	},
+	"MN": {
+		"state": "The State of Mongolia",
+		"ccTld": ".mn",
+		"nationality": ""
+	},
+	"ME": {
+		"state": "Montenegro",
+		"ccTld": ".me",
+		"nationality": ""
+	},
+	"MS": {
+		"state": "Montserrat",
+		"ccTld": ".ms",
+		"nationality": ""
+	},
+	"MA": {
+		"state": "The Kingdom of Morocco",
+		"ccTld": ".ma",
+		"nationality": "Moroccans"
+	},
+	"MZ": {
+		"state": "The Republic of Mozambique",
+		"ccTld": ".mz",
+		"nationality": "Mozambicans"
+	},
+	"MM": {
+		"state": "The Republic of the Union of Myanmar",
+		"ccTld": ".mm",
+		"nationality": ""
+	},
+	"NA": {
+		"state": "The Republic of Namibia",
+		"ccTld": ".na",
+		"nationality": "Namibians"
+	},
+	"NR": {
+		"state": "The Republic of Nauru",
+		"ccTld": ".nr",
+		"nationality": "Naurans"
+	},
+	"NP": {
+		"state": "The Federal Democratic Republic of Nepal",
+		"ccTld": ".np",
+		"nationality": "Nepalese"
+	},
+	"NL": {
+		"state": "The Kingdom of the Netherlands",
+		"ccTld": ".nl",
+		"nationality": ""
+	},
+	"NC": {
+		"state": "New Caledonia",
+		"ccTld": ".nc",
+		"nationality": ""
+	},
+	"NZ": {
+		"state": "New Zealand",
+		"ccTld": ".nz",
+		"nationality": "New Zealanders"
+	},
+	"NI": {
+		"state": "The Republic of Nicaragua",
+		"ccTld": ".ni",
+		"nationality": "Nicaraguans"
+	},
+	"NE": {
+		"state": "The Republic of the Niger",
+		"ccTld": ".ne",
+		"nationality": "Nigeriens"
+	},
+	"NG": {
+		"state": "The Federal Republic of Nigeria",
+		"ccTld": ".ng",
+		"nationality": "Nigerians"
+	},
+	"NU": {
+		"state": "Niue",
+		"ccTld": ".nu",
+		"nationality": ""
+	},
+	"NF": {
+		"state": "The Territory of Norfolk Island",
+		"ccTld": ".nf",
+		"nationality": ""
+	},
+	"MP": {
+		"state": "The Commonwealth of the Northern Mariana Islands",
+		"ccTld": ".mp",
+		"nationality": ""
+	},
+	"NO": {
+		"state": "The Kingdom of Norway",
+		"ccTld": ".no",
+		"nationality": "Norwegians"
+	},
+	"OM": {
+		"state": "The Sultanate of Oman",
+		"ccTld": ".om",
+		"nationality": "Omani"
+	},
+	"PK": {
+		"state": "The Islamic Republic of Pakistan",
+		"ccTld": ".pk",
+		"nationality": "Pakistani"
+	},
+	"PW": {
+		"state": "The Republic of Palau",
+		"ccTld": ".pw",
+		"nationality": "Palauans"
+	},
+	"PS": {
+		"state": "The State of Palestine",
+		"ccTld": ".ps",
+		"nationality": "Palestinians"
+	},
+	"PA": {
+		"state": "The Republic of Panamá",
+		"ccTld": ".pa",
+		"nationality": "Panamanians"
+	},
+	"PG": {
+		"state": "The Independent State of Papua New Guinea",
+		"ccTld": ".pg",
+		"nationality": "Papua New Guineans"
+	},
+	"PY": {
+		"state": "The Republic of Paraguay",
+		"ccTld": ".py",
+		"nationality": "Paraguayans"
+	},
+	"PE": {
+		"state": "The Republic of Perú",
+		"ccTld": ".pe",
+		"nationality": "Peruvians"
+	},
+	"PH": {
+		"state": "The Republic of the Philippines",
+		"ccTld": ".ph",
+		"nationality": ""
+	},
+	"PN": {
+		"state": "The Pitcairn, Henderson, Ducie and Oeno Islands",
+		"ccTld": ".pn",
+		"nationality": ""
+	},
+	"PL": {
+		"state": "The Republic of Poland",
+		"ccTld": ".pl",
+		"nationality": "Poles"
+	},
+	"PT": {
+		"state": "The Portuguese Republic",
+		"ccTld": ".pt",
+		"nationality": "Portuguese"
+	},
+	"PR": {
+		"state": "The Commonwealth of Puerto Rico",
+		"ccTld": ".pr",
+		"nationality": ""
+	},
+	"QA": {
+		"state": "The State of Qatar",
+		"ccTld": ".qa",
+		"nationality": ""
+	},
+	"RE": {
+		"state": "Réunion",
+		"ccTld": ".re",
+		"nationality": ""
+	},
+	"RO": {
+		"state": "Romania",
+		"ccTld": ".ro",
+		"nationality": ""
+	},
+	"RU": {
+		"state": "The Russian Federation",
+		"ccTld": ".ru",
+		"nationality": ""
+	},
+	"RW": {
+		"state": "The Republic of Rwanda",
+		"ccTld": ".rw",
+		"nationality": ""
+	},
+	"BL": {
+		"state": "The Collectivity of Saint-Barthélemy",
+		"ccTld": ".bl",
+		"nationality": ""
+	},
+	"SH": {
+		"state": "Saint Helena, Ascension and Tristan da Cunha",
+		"ccTld": ".sh",
+		"nationality": ""
+	},
+	"KN": {
+		"state": "Saint Kitts and Nevis",
+		"ccTld": ".kn",
+		"nationality": ""
+	},
+	"LC": {
+		"state": "Saint Lucia",
+		"ccTld": ".lc",
+		"nationality": ""
+	},
+	"MF": {
+		"state": "The Collectivity of Saint-Martin",
+		"ccTld": ".mf",
+		"nationality": ""
+	},
+	"PM": {
+		"state": "The Overseas Collectivity of Saint-Pierre and Miquelon",
+		"ccTld": ".pm",
+		"nationality": ""
+	},
+	"VC": {
+		"state": "Saint Vincent and the Grenadines",
+		"ccTld": ".vc",
+		"nationality": ""
+	},
+	"WS": {
+		"state": "The Independent State of Samoa",
+		"ccTld": ".ws",
+		"nationality": ""
+	},
+	"SM": {
+		"state": "The Republic of San Marino",
+		"ccTld": ".sm",
+		"nationality": ""
+	},
+	"ST": {
+		"state": "The Democratic Republic of São Tomé and Príncipe",
+		"ccTld": ".st",
+		"nationality": ""
+	},
+	"SA": {
+		"state": "The Kingdom of Saudi Arabia",
+		"ccTld": ".sa",
+		"nationality": ""
+	},
+	"SN": {
+		"state": "The Republic of Senegal",
+		"ccTld": ".sn",
+		"nationality": ""
+	},
+	"RS": {
+		"state": "The Republic of Serbia",
+		"ccTld": ".rs",
+		"nationality": ""
+	},
+	"SC": {
+		"state": "The Republic of Seychelles",
+		"ccTld": ".sc",
+		"nationality": ""
+	},
+	"SL": {
+		"state": "The Republic of Sierra Leone",
+		"ccTld": ".sl",
+		"nationality": ""
+	},
+	"SG": {
+		"state": "The Republic of Singapore",
+		"ccTld": ".sg",
+		"nationality": ""
+	},
+	"SX": {
+		"state": "Sint Maarten",
+		"ccTld": ".sx",
+		"nationality": ""
+	},
+	"SK": {
+		"state": "The Slovak Republic",
+		"ccTld": ".sk",
+		"nationality": ""
+	},
+	"SI": {
+		"state": "The Republic of Slovenia",
+		"ccTld": ".si",
+		"nationality": ""
+	},
+	"SB": {
+		"state": "The Solomon Islands",
+		"ccTld": ".sb",
+		"nationality": ""
+	},
+	"SO": {
+		"state": "The Federal Republic of Somalia",
+		"ccTld": ".so",
+		"nationality": ""
+	},
+	"ZA": {
+		"state": "The Republic of South Africa",
+		"ccTld": ".za",
+		"nationality": ""
+	},
+	"GS": {
+		"state": "South Georgia and the South Sandwich Islands",
+		"ccTld": ".gs",
+		"nationality": ""
+	},
+	"SS": {
+		"state": "The Republic of South Sudan",
+		"ccTld": ".ss",
+		"nationality": ""
+	},
+	"ES": {
+		"state": "The Kingdom of Spain",
+		"ccTld": ".es",
+		"nationality": ""
+	},
+	"LK": {
+		"state": "The Democratic Socialist Republic of Sri Lanka",
+		"ccTld": ".lk",
+		"nationality": ""
+	},
+	"SD": {
+		"state": "The Republic of the Sudan",
+		"ccTld": ".sd",
+		"nationality": ""
+	},
+	"SR": {
+		"state": "The Republic of Suriname",
+		"ccTld": ".sr",
+		"nationality": ""
+	},
+	"SJ": {
+		"state": "Svalbard and Jan Mayen",
+		"ccTld": "",
+		"nationality": ""
+	},
+	"SE": {
+		"state": "The Kingdom of Sweden",
+		"ccTld": ".se",
+		"nationality": ""
+	},
+	"CH": {
+		"state": "The Swiss Confederation",
+		"ccTld": ".ch",
+		"nationality": ""
+	},
+	"SY": {
+		"state": "The Syrian Arab Republic",
+		"ccTld": ".sy",
+		"nationality": ""
+	},
+	"TW": {
+		"state": "The Republic of China",
+		"ccTld": ".tw",
+		"nationality": ""
+	},
+	"TJ": {
+		"state": "The Republic of Tajikistan",
+		"ccTld": ".tj",
+		"nationality": ""
+	},
+	"TZ": {
+		"state": "The United Republic of Tanzania",
+		"ccTld": ".tz",
+		"nationality": ""
+	},
+	"TH": {
+		"state": "The Kingdom of Thailand",
+		"ccTld": ".th",
+		"nationality": ""
+	},
+	"TL": {
+		"state": "The Democratic Republic of Timor-Leste",
+		"ccTld": ".tl",
+		"nationality": ""
+	},
+	"TG": {
+		"state": "The Togolese Republic",
+		"ccTld": ".tg",
+		"nationality": ""
+	},
+	"TK": {
+		"state": "Tokelau",
+		"ccTld": ".tk",
+		"nationality": ""
+	},
+	"TO": {
+		"state": "The Kingdom of Tonga",
+		"ccTld": ".to",
+		"nationality": ""
+	},
+	"TT": {
+		"state": "The Republic of Trinidad and Tobago",
+		"ccTld": ".tt",
+		"nationality": ""
+	},
+	"TN": {
+		"state": "The Republic of Tunisia",
+		"ccTld": ".tn",
+		"nationality": ""
+	},
+	"TR": {
+		"state": "The Republic of Turkey",
+		"ccTld": ".tr",
+		"nationality": ""
+	},
+	"TM": {
+		"state": "Turkmenistan",
+		"ccTld": ".tm",
+		"nationality": ""
+	},
+	"TC": {
+		"state": "The Turks and Caicos Islands",
+		"ccTld": ".tc",
+		"nationality": ""
+	},
+	"TV": {
+		"state": "Tuvalu",
+		"ccTld": ".tv",
+		"nationality": ""
+	},
+	"UG": {
+		"state": "The Republic of Uganda",
+		"ccTld": ".ug",
+		"nationality": ""
+	},
+	"UA": {
+		"state": "Ukraine",
+		"ccTld": ".ua",
+		"nationality": ""
+	},
+	"AE": {
+		"state": "The United Arab Emirates",
+		"ccTld": ".ae",
+		"nationality": ""
+	},
+	"GB": {
+		"state": "The United Kingdom of Great Britain and Northern Ireland",
+		"ccTld": ".gb .uk ",
+		"nationality": ""
+	},
+	"UM": {
+		"state": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Atoll, Navassa Island, Palmyra Atoll, and Wake Island",
+		"ccTld": "",
+		"nationality": ""
+	},
+	"US": {
+		"state": "The United States of America",
+		"ccTld": ".us",
+		"nationality": ""
+	},
+	"UY": {
+		"state": "The Oriental Republic of Uruguay",
+		"ccTld": ".uy",
+		"nationality": ""
+	},
+	"UZ": {
+		"state": "The Republic of Uzbekistan",
+		"ccTld": ".uz",
+		"nationality": ""
+	},
+	"VU": {
+		"state": "The Republic of Vanuatu",
+		"ccTld": ".vu",
+		"nationality": ""
+	},
+	"VE": {
+		"state": "The Bolivarian Republic of Venezuela",
+		"ccTld": ".ve",
+		"nationality": ""
+	},
+	"VN": {
+		"state": "The Socialist Republic of Viet Nam",
+		"ccTld": ".vn",
+		"nationality": ""
+	},
+	"VG": {
+		"state": "The Virgin Islands",
+		"ccTld": ".vg",
+		"nationality": ""
+	},
+	"VI": {
+		"state": "The Virgin Islands of the United States",
+		"ccTld": ".vi",
+		"nationality": ""
+	},
+	"WF": {
+		"state": "The Territory of the Wallis and Futuna Islands",
+		"ccTld": ".wf",
+		"nationality": ""
+	},
+	"EH": {
+		"state": "The Sahrawi Arab Democratic Republic",
+		"ccTld": "",
+		"nationality": ""
+	},
+	"YE": {
+		"state": "The Republic of Yemen",
+		"ccTld": ".ye",
+		"nationality": ""
+	},
+	"ZM": {
+		"state": "The Republic of Zambia",
+		"ccTld": ".zm",
+		"nationality": ""
+	},
+	"ZW": {
+		"state": "The Republic of Zimbabwe",
+		"ccTld": ".zw",
+		"nationality": ""
+	}
+}

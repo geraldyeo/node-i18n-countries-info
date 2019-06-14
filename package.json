@@ -1,0 +1,22 @@
+{
+  "name": "node-i18n-countries-info",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "module": "lib/index.mjs",
+  "unpkg": "lib/index.umd.js",
+  "scripts": {
+    "build": "microbundle build src/index.ts",
+    "dev": "microbundle watch src/index.ts",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.14",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "microbundle": "^0.11.0"
+  }
+}
